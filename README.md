@@ -26,6 +26,11 @@ To run:
 bun run index.ts
 ```
 
+## Note
+
+The download relies on an API on https://magnus-toolserver.toolforge.org which
+is marked `experimental`.
+
 ## License
 
 MIT License
