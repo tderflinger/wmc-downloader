@@ -31,6 +31,10 @@ bun run index.ts
 The download relies on an API on https://magnus-toolserver.toolforge.org which
 is marked `experimental`.
 
+## References
+
+This application was inspired by the great work of [commons-downloader](https://git.sr.ht/~nytpu/commons-downloader).
+
 ## License
 
 MIT License
